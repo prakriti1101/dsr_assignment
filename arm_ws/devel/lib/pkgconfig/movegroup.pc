@@ -1,0 +1,8 @@
+prefix=/home/prakriti/arm_ws/devel
+
+Name: movegroup
+Description: Description of movegroup
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

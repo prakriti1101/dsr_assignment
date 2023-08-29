@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/prakriti/arm_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/prakriti/catkin_ws/devel/include/**",
+        "/home/prakriti/catkin_ws/src/beginner_shit/include/**",
+        "/home/prakriti/ws_moveit/src/beginner_tutorials/include/**",
+        "/home/prakriti/arm_ws/src/doosan-robot/common/include/**",
+        "/home/prakriti/arm_ws/src/doosan-robot/dsr_control/include/**",
+        "/home/prakriti/arm_ws/src/serial/include/**",
+        "/home/prakriti/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/prakriti/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/prakriti/catkin_ws/src/turtlebot3/turtlebot3_slam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
